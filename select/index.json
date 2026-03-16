@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Don't Stay",
+  "base_artist": "Linkin Park",
+  "createdAt": "2026-03-16T04:53:49.583590Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Don't Stay",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/01_Don't_Stay_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Don’t Stay Long",
+      "artist": "Royal Coda feat. Donovan Melero",
+      "has_synced": true,
+      "path": "select/02_Don’t_Stay_Long_Royal_Coda_feat._Donovan_Melero.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Don’t Stay Long",
+      "artist": "Royal Coda",
+      "has_synced": true,
+      "path": "select/03_Don’t_Stay_Long_Royal_Coda.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Don't Stay - Live from Shanghai, 2007",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/04_Don't_Stay_-_Live_from_Shanghai,_2007_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Don’t Stay",
+      "artist": "La Sera",
+      "has_synced": false,
+      "path": "select/05_Don’t_Stay_La_Sera.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love Don't Stay",
+      "artist": "Tygers of Pan Tang",
+      "has_synced": true,
+      "path": "select/06_Love_Don't_Stay_Tygers_of_Pan_Tang.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Don't Stay Home",
+      "artist": "311",
+      "has_synced": true,
+      "path": "select/07_Don't_Stay_Home_311.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Don’t Stay Home",
+      "artist": "311",
+      "has_synced": true,
+      "path": "select/08_Don’t_Stay_Home_311.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Don't Stay",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/09_Don't_Stay_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Don't Stay - Live in Shanghai, 2007",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/10_Don't_Stay_-_Live_in_Shanghai,_2007_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Don't Stay Away",
+      "artist": "Golden Earring",
+      "has_synced": false,
+      "path": "select/11_Don't_Stay_Away_Golden_Earring.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Don’t Stay Home",
+      "artist": "311",
+      "has_synced": true,
+      "path": "select/12_Don’t_Stay_Home_311.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Don't Stay",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/13_Don't_Stay_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Don't Stay (Live In Nottingham 2003)",
+      "artist": "Linkin Park",
+      "has_synced": false,
+      "path": "select/14_Don't_Stay_(Live_In_Nottingham_2003)_Linkin_Park.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Don't Stay - Live In Texas",
+      "artist": "LINKIN PARK",
+      "has_synced": false,
+      "path": "select/15_Don't_Stay_-_Live_In_Texas_LINKIN_PARK.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Don't Stay",
+      "artist": "[LINKIN PARK]",
+      "has_synced": true,
+      "path": "select/16_Don't_Stay_[LINKIN_PARK].lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Don't Stay",
+      "artist": "Linkin Park",
+      "has_synced": false,
+      "path": "select/pl_01_Don't_Stay_Linkin_Park.txt"
+    }
+  ]
+}
